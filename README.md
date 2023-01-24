@@ -1,4 +1,5 @@
-#Editor de texto estilo Bloco de Notas escrito em Python e utilizando Tkinter como interface.
+# PyNotepad
+## Editor de texto estilo Bloco de Notas escrito em Python e utilizando Tkinter como interface.
 
 Editor de texto funcionando.
 Salva, carrega arquivos, muda a fonte e o tamanho da letra. 
