@@ -1,4 +1,6 @@
-Editor de texto funcionando bem.
+#Editor de texto estilo Bloco de Notas escrito em Python e utilizando Tkinter como interface.
+
+Editor de texto funcionando.
 Salva, carrega arquivos, muda a fonte e o tamanho da letra. 
 
 TODO:
@@ -8,4 +10,4 @@ TODO:
 - Atalhos de teclado
 
 BUGS:
-- Aparece um erro no console se fechar a janela do explorer sem salvar ou abrir arquivos
+- Aparece um erro no console se fechar a janela do explorer sem salvar ou abrir arquivos.
